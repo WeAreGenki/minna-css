@@ -1,0 +1,16 @@
+{
+  "name": "minna-css",
+  "version": "0.0.0",
+  "description": "Package alias for @minna-ui/css",
+  "repository": "https://github.com/WeAreGenki/minna-ui/tree/master/css",
+  "bugs": "https://github.com/WeAreGenki/minna-ui/issues",
+  "homepage": "https://ui.wearegenki.com",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@minna-ui/css": "0.0.0"
+  }
+}
