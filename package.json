@@ -1,6 +1,6 @@
 {
   "name": "minna-css",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Package alias for @minna-ui/css",
   "repository": "https://github.com/WeAreGenki/minna-ui/tree/master/css",
   "bugs": "https://github.com/WeAreGenki/minna-ui/issues",
@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@minna-ui/css": "0.0.0"
+    "@minna-ui/css": "0.1.0"
   }
 }
