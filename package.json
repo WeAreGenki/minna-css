@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@minna-ui/css": "0.0.0"
+    "@minna-ui/css": "0.1.0"
   }
 }
