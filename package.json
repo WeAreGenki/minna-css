@@ -12,5 +12,8 @@
   },
   "dependencies": {
     "@minna-ui/css": "0.15.0"
+  },
+  "devDependencies": {
+    "@wearegenki/renovate-config": "1.0.0"
   }
 }
