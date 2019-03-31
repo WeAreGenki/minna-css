@@ -1,4 +1,6 @@
-<!-- markdownlint-disable first-line-h1 -->
+**DEPRECATED: The `minna-css` package is now part of the main [Minna UI repo](https://github.com/WeAreGenki/minna-ui) and provides different/better functionality.**
+
+---
 
 [![NPM version](https://img.shields.io/npm/v/minna-css.svg)](https://www.npmjs.com/package/minna-css)
 [![Licence](https://img.shields.io/npm/l/minna-css.svg)](https://github.com/WeAreGenki/minna-ui/blob/master/LICENCE)
